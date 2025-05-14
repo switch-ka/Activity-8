@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GUICust")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f04319e83a2a771a99aa45a9157b038f1a007ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("GUICust")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GUICust")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

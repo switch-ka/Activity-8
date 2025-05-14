@@ -49,3 +49,4 @@ C:\Users\Administrator\source\repos\GUICust\GUICust\bin\Debug\net8.0-windows\Sys
 C:\Users\Administrator\source\repos\GUICust\GUICust\bin\Debug\net8.0-windows\XLParser.dll
 C:\Users\Administrator\source\repos\GUICust\GUICust\obj\Debug\net8.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
 C:\Users\Administrator\source\repos\GUICust\GUICust\obj\Debug\net8.0-windows\GUICust.csproj.ResolveComReference.cache
+C:\Users\Administrator\source\repos\GUICust\GUICust\obj\Debug\net8.0-windows\GUICust.sourcelink.json

@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\GUICust\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62F02027-35E4-4B74-939D-8021B62D795B}|GUICust\\GUICust.csproj|c:\\users\\administrator\\source\\repos\\guicust\\guicust\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{62F02027-35E4-4B74-939D-8021B62D795B}|GUICust\\GUICust.csproj|solutionrelative:guicust\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F02027-35E4-4B74-939D-8021B62D795B}|GUICust\\GUICust.csproj|c:\\users\\administrator\\source\\repos\\guicust\\guicust\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F02027-35E4-4B74-939D-8021B62D795B}|GUICust\\GUICust.csproj|solutionrelative:guicust\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F02027-35E4-4B74-939D-8021B62D795B}|GUICust\\GUICust.csproj|c:\\users\\administrator\\source\\repos\\guicust\\guicust\\custrentgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62F02027-35E4-4B74-939D-8021B62D795B}|GUICust\\GUICust.csproj|solutionrelative:guicust\\custrentgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F02027-35E4-4B74-939D-8021B62D795B}|GUICust\\GUICust.csproj|c:\\users\\administrator\\source\\repos\\guicust\\guicust\\custrentgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F02027-35E4-4B74-939D-8021B62D795B}|GUICust\\GUICust.csproj|solutionrelative:guicust\\custrentgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F02027-35E4-4B74-939D-8021B62D795B}|GUICust\\GUICust.csproj|c:\\users\\administrator\\source\\repos\\guicust\\guicust\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F02027-35E4-4B74-939D-8021B62D795B}|GUICust\\GUICust.csproj|solutionrelative:guicust\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F02027-35E4-4B74-939D-8021B62D795B}|GUICust\\GUICust.csproj|C:\\Users\\Administrator\\source\\repos\\GUICust\\guicust\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62F02027-35E4-4B74-939D-8021B62D795B}|GUICust\\GUICust.csproj|solutionrelative:guicust\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F02027-35E4-4B74-939D-8021B62D795B}|GUICust\\GUICust.csproj|c:\\users\\administrator\\source\\repos\\guicust\\guicust\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F02027-35E4-4B74-939D-8021B62D795B}|GUICust\\GUICust.csproj|solutionrelative:guicust\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F02027-35E4-4B74-939D-8021B62D795B}|GUICust\\GUICust.csproj|C:\\Users\\Administrator\\source\\repos\\GUICust\\guicust\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{62F02027-35E4-4B74-939D-8021B62D795B}|GUICust\\GUICust.csproj|solutionrelative:guicust\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62F02027-35E4-4B74-939D-8021B62D795B}|GUICust\\GUICust.csproj|c:\\users\\administrator\\source\\repos\\guicust\\guicust\\costumeinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62F02027-35E4-4B74-939D-8021B62D795B}|GUICust\\GUICust.csproj|solutionrelative:guicust\\costumeinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GUICust\\GUICust\\DBConnection.cs",
+              "RelativeDocumentMoniker": "GUICust\\DBConnection.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GUICust\\GUICust\\DBConnection.cs",
+              "RelativeToolTip": "GUICust\\DBConnection.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAswEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T17:20:27.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GUICust\\GUICust\\App.config",
+              "RelativeDocumentMoniker": "GUICust\\App.config",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GUICust\\GUICust\\App.config",
+              "RelativeToolTip": "GUICust\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-14T17:20:14.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustRentGUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GUICust\\GUICust\\CustRentGUI.cs",
+              "RelativeDocumentMoniker": "GUICust\\CustRentGUI.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GUICust\\GUICust\\CustRentGUI.cs [Design]",
+              "RelativeToolTip": "GUICust\\CustRentGUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:06:14.843Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GUICust\\GUICust\\Login.cs",
+              "RelativeDocumentMoniker": "GUICust\\Login.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GUICust\\GUICust\\Login.cs [Design]",
+              "RelativeToolTip": "GUICust\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:06:27.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GUICust\\GUICust\\SignUp.cs",
+              "RelativeDocumentMoniker": "GUICust\\SignUp.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GUICust\\GUICust\\SignUp.cs [Design]",
+              "RelativeToolTip": "GUICust\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:06:29.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustRentGUI.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GUICust\\GUICust\\CustRentGUI.cs",
+              "RelativeDocumentMoniker": "GUICust\\CustRentGUI.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GUICust\\GUICust\\CustRentGUI.cs",
+              "RelativeToolTip": "GUICust\\CustRentGUI.cs",
+              "ViewState": "AgIAAHsDAAAAAAAAAAAjwHsDAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:06:17.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GUICust\\GUICust\\SignUp.cs",
+              "RelativeDocumentMoniker": "GUICust\\SignUp.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GUICust\\GUICust\\SignUp.cs",
+              "RelativeToolTip": "GUICust\\SignUp.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAD4vx4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T12:48:13.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GUICust\\GUICust\\Login.cs",
+              "RelativeDocumentMoniker": "GUICust\\Login.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GUICust\\GUICust\\Login.cs",
+              "RelativeToolTip": "GUICust\\Login.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAArwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T12:33:26.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CostumeInfoForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GUICust\\GUICust\\CostumeInfoForm.cs",
+              "RelativeDocumentMoniker": "GUICust\\CostumeInfoForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GUICust\\GUICust\\CostumeInfoForm.cs",
+              "RelativeToolTip": "GUICust\\CostumeInfoForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:57:53.322Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

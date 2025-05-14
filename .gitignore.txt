@@ -1,1 +1,5 @@
+
+# Ignore Visual Studio configuration files
 .vs/
+
+
